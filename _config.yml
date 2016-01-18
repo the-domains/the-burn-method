@@ -1,0 +1,28 @@
+name: The Burn Method
+favicon: null
+layout_spectrum: 0.9875585914123803
+typography_spectrum: 0.7029717687983066
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4114188633393496
+  lightness: 0.8447208211291581
+  saturation: 0.5243564711418003
+  rhythmicContrast: 0.7384031233377755
+purpose: []
